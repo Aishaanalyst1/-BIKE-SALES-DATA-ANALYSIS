@@ -1,7 +1,7 @@
 # [Project Title: BIKE SALES DATA ANALYSIS]
 
 <!-- Add a project banner image or relevant dashboard screenshot here to capture attention -->
-![Project Banner](path/to/banner_or_dashboard.png)
+![Project Banner](https://github.com/Aishaanalyst1/-BIKE-SALES-DATA-ANALYSIS/blob/main/Screenshot%202026-09-12%20204826.png)
 
 ## 📊 Project Overview
 Provide a concise, 2-3 sentence summary of what this project is about, the core tools used, and the final impact. 
