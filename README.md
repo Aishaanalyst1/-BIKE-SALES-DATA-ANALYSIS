@@ -96,6 +96,6 @@ Demonstrate critical thinking by noting what could be improved or what constrain
 ---
 
 ## ✉️ Contact
-* **Name:** Your Name
-* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
-* **Email:** your.email@example.com
+* **Name:** Aisha Kolawole
+* **LinkedIn:** linkedin.com/in/aisha-kolawole
+* **Email:** aishadataanalyst1@gmail.com
